@@ -16,17 +16,7 @@ The configurations available are:
 
 ![image](https://github.com/ididoopsy123/Pokemon-showdown-ai/assets/87253312/52940924-860c-4230-b99b-8500840f64ee)
 
-
-Running without Docker
-1. Clone
-
-Clone the repository with git clone https://github.com/pmariglia/showdown.git
-
-2. Install Requirements
-
-Install the requirements with pip install -r requirements.txt.
-
-3. Configure your env file
+Configure your env file
 
 Here is a sample:
 
@@ -40,21 +30,6 @@ RUN_COUNT=1
 4. Run
 
 Run with python run.py
-
-Running with Docker
-This requires Docker 17.06 or higher.
-
-1. Clone the repository
-
-git clone https://github.com/pmariglia/showdown.git
-
-2. Build the Docker image
-
-docker build . -t showdown
-
-3. Run with an environment variable file
-
-docker run --env-file env showdown
 
 Battle Bots
 This project has a few different battle bot implementations. Each of these battle bots use a different method to determine which move to use.
