@@ -17,6 +17,7 @@ The configurations available are:
 ![image](https://github.com/ididoopsy123/Pokemon-showdown-ai/assets/87253312/52940924-860c-4230-b99b-8500840f64ee)
 
 THIS IS NOT MY AI IM JUST REPOSTING MY TWEAKED VERSION OF IT. THE ZIP FILE ATTACTCHED IS THE ORIGINAL ONE.
+
 Configure your env file
 
 Here is a sample:
